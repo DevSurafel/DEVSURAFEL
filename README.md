@@ -111,3 +111,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsurafel&show_icons=true&locale=en" alt="devsurafel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsurafel&" alt="devsurafel" /></p>
+
+## GitHub Activity
+
+Some of my projects are maintained in private repositories, so they are not publicly visible.  
+Their development activity is still reflected in the contribution graph below.
+
+![GitHub Contributions](<img align="center" src="https:github.com/DevSurafel/Contributions" />)
