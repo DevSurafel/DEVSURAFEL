@@ -117,4 +117,4 @@
 Some of my projects are maintained in private repositories, so they are not publicly visible.  
 Their development activity is still reflected in the contribution graph below.
 
-![GitHub Contributions](<img align="center" src="https:github.com/DevSurafel/devsurafel.github.io/Contributions.png" />)
+![GitHub Contributions](https://github.com/DevSurafel/devsurafel.github.io/blob/main/Contributions.png)
