@@ -14,13 +14,12 @@
 
 <h4 align="left">ABOUT ME:</h4>
 <ul align="left">
-  <li>🔭 Currently working on <b>MERN Stack Project</b></li>
-  <li>🌱 Learning <b>Data Structure And Algorithms</b></li>
+  <li> Computer Engineering graduate from Marwadi University (2026)</b></li>
+  <li> Interested in Machine Learning, distributed systems, and scalable software infrastructure</b></li>
+  <li> Research focused on deepfake detection using physiological eye-blink patterns</b></li>
   <li>👨‍💻 My Portfolio  <a href="https://devsurafel.github.io" target="_blank" rel="noopener noreferrer">devsurafel.gihub.io</a></li>
-  <li>💬 Ask me about <b>MERN Stack</b></li>
   <li>📫 How to reach me: <a href="mailto:surapheldiriba@gmail.com"><b>Contact</b></a></li>
   <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/assets/resume/Surafel_Resume.pdf" target="_blank" rel="noopener noreferrer"><b>Resume</b></a></li>
-  <li>⚡ Fun fact: <b>I'm a funny guy!</b></li>
 </ul></p>
 
 <img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" align="right"></p>
