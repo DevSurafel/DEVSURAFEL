@@ -3,13 +3,13 @@
   <img src="https://github.com/DevSurafel/DevSurafel/assets/119774330/2ad203e1-f754-4ed7-8b31-b078517337f9"></p>
 
 
-<p align="left"> <a href="https://twitter.com/surafel_diriba" target="blank"><img src="https://img.shields.io/twitter/follow/surafel_diriba?logo=twitter&style=for-the-badge" alt="surafel_diriba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/surafel_diriba_" target="blank"><img src="https://img.shields.io/twitter/follow/surafel_diriba_?logo=twitter&style=for-the-badge" alt="surafel_diriba" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/surafel_diriba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surafel_diriba" height="30" width="40" /></a>
+  <a href="https://twitter.com/surafel_diriba_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surafel_diriba" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/surafel_diriba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surafel_diriba" height="30" width="40" /></a>
-  <a href="https://fb.com/suraphe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraphe" height="30" width="40" /></a>
+  <a href="https://fb.com/surafel.diriba1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surafel" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">ABOUT ME:</h4>
@@ -18,8 +18,8 @@
   <li>🌱 Learning <b>Data Structure And Algorithms</b></li>
   <li>👨‍💻 My Portfolio  <a href="https://devsurafel.github.io" target="_blank" rel="noopener noreferrer">devsurafel.gihub.io</a></li>
   <li>💬 Ask me about <b>MERN Stack</b></li>
-  <li>📫 How to reach me: <a href="mailto:insurafel@gmail.com"><b>Contact</b></a></li>
-  <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/resume" target="_blank" rel="noopener noreferrer"><b>Resume</b></a></li>
+  <li>📫 How to reach me: <a href="mailto:surapheldiriba@gmail.com"><b>Contact</b></a></li>
+  <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/public/assets/resume/Surafel_Resume.pdf" target="_blank" rel="noopener noreferrer"><b>Resume</b></a></li>
   <li>⚡ Fun fact: <b>I'm a funny guy!</b></li>
 </ul></p>
 
